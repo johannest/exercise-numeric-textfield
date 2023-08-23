@@ -1,1 +1,4 @@
 /exercise-numeric-textfield-demo/src/main/webapp/VAADIN/widgetsets/
+/exercise-numeric-textfield-demo/target/
+/exercise-numeric-textfield/target/
+/.idea/
